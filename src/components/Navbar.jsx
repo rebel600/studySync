@@ -46,7 +46,7 @@ const Navbar = () => {
 					</Link>
 				</nav>
 
-				{/* Contact */}
+				{/* Contact Us*/}
 				<Link
 					to="/"
 					className="hidden md:block border-none border rounded-md bg-primary-color text-background-color p-2 transform hover:bg-[#5254f8]"
